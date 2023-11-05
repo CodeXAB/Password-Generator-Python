@@ -1,4 +1,4 @@
-# codosft_taskno.3
+# Password Generator In Python
  Password Generator
  GUI based Interface
  "Secret" library used to generate unique password every time.
